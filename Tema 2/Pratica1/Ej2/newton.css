@@ -1,0 +1,33 @@
+h1 {
+    font: bold;
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+ul {
+    margin-top: 45 px;
+    float: left;
+    padding: inherit;
+    alignment: bottom;
+}
+
+li {
+    background-color: white;
+    list-style: none;
+    padding: 5px;
+    border-right: 15px solid black;
+    margin: 10px;
+    alignment: ;
+}
+
+a {
+    color: brown;
+    background-color: white;
+}
+
+* {
+    background-color: deepskyblue;
+}
