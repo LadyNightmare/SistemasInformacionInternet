@@ -42,7 +42,8 @@ function comprobacion () {
     if (advertencia) {
 
         alert(warning);
-        
+        document.getElementById('pass').value = "";
+        document.getElementById('rpass').value = "";
         return false;
 
     }
